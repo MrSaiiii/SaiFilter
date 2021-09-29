@@ -7,3 +7,4 @@
 !
 ||five88.me
 ||fabet.me^
+||hatde.tv/assets/popup.js
